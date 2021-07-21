@@ -136,3 +136,7 @@ Unit-tests, SOLID: L & D
   19. RecyclerView первая часть
 
 20. RecyclerView детальный разбор
+
+21. DiffUtilCallback
+
+22.Fragments, ViewPager2, TabLayout
