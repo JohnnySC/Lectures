@@ -140,3 +140,5 @@ Unit-tests, SOLID: L & D
 21. DiffUtilCallback
 
 22.Fragments, ViewPager2, TabLayout
+
+23. ViewModelFactory, FragmentManager, IoC
