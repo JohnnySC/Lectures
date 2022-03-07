@@ -142,3 +142,6 @@ Unit-tests, SOLID: L & D
 22.Fragments, ViewPager2, TabLayout
 
 23. ViewModelFactory, FragmentManager, IoC
+
+24. Ui tests
+24. 
