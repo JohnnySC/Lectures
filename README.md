@@ -1,6 +1,8 @@
 # Lectures
 Лекции по джава, котлин и андроид в текстовом формате
 
+Плейлист на ютуб по этим же лекциям
+https://www.youtube.com/playlist?list=PLQRyeBV1rkk0_R1aXEeXxc-IVbl8q7f-l
 
 Содержание лекций Java
     
