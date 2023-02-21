@@ -113,7 +113,7 @@ Unit-tests, SOLID: L & D
   8. Клиент-серверное приложение. (https://youtu.be/tPd7mv8lyYg и https://youtu.be/OoL_Mm8-VVY)
  класс Application, HttpUrlConnection, Retrofit2, Gson
 
-  9. Хранение данных
+  9. Хранение данных (https://youtu.be/jeW9SkMcG54 и https://youtu.be/ksr6LFHrT4M)
  Realm, noSql
 
   10. Мапинг данных 
@@ -146,4 +146,3 @@ Unit-tests, SOLID: L & D
 23. ViewModelFactory, FragmentManager, IoC
 
 24. Ui tests
-24. 
