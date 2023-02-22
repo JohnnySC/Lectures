@@ -116,7 +116,7 @@ Unit-tests, SOLID: L & D
   9. Хранение данных (https://youtu.be/jeW9SkMcG54 и https://youtu.be/ksr6LFHrT4M)
  Realm, noSql
 
-  10. Мапинг данных 
+  10. Мапинг данных (https://youtu.be/5DtPMSrScEA)
 
   11. Корутины!
 
