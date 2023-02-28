@@ -118,7 +118,7 @@ Unit-tests, SOLID: L & D
 
   10. Мапинг данных (https://youtu.be/5DtPMSrScEA)
 
-  11. Корутины! (https://youtu.be/HTtKGU9_MFw)
+  11. Корутины! (https://youtu.be/HTtKGU9_MFw https://youtu.be/VkQvmh5RfE4 )
 
   12. SOLID : ISP Interface Segregation
 
